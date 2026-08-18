@@ -1,0 +1,6 @@
+{
+  "name": "Parque Deportivo Enrique Berduc",
+  "description": "Sistema de gestión integral de turnos, registros de visitantes, delegaciones y estadísticas para el Parque Escolar Deportivo Enrique Berduc en Paraná, Entre Ríos.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
